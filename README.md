@@ -1,6 +1,10 @@
 # REPOConfig-overlap-patch
 REPO beta build has menu and settings overlap. The mod owner won't release for beta, so I fixed it. <br />
-All credit goes to original creator [IsThatTheRealNick](https://github.com/IsThatTheRealNick/) and his [repository](https://github.com/IsThatTheRealNick/REPOConfig).
+All credit goes to original creator [IsThatTheRealNick](https://github.com/IsThatTheRealNick/) and his [repository](https://github.com/IsThatTheRealNick/REPOConfig).<br />
+<br /> The only change has been made to a single line (in ConfigMenu.cs):<br/>
+`MenuAPI.AddElementToMainMenu(parent => MenuAPI.CreateREPOButton("Mods", CreateModMenu, parent, new Vector2(48.3f, 55.5f)));`<br />
+to <br />
+`MenuAPI.AddElementToMainMenu(parent => MenuAPI.CreateREPOButton("Mods", CreateModMenu, parent, new Vector2(120f, 54.1f)));`
 
 ## Installation
 Just overwrite the file in `<your-mod-package-here>\BepInEx\plugins\nickklmao-REPOConfig`.<br />
