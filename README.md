@@ -9,3 +9,6 @@ to <br />
 ## Installation
 Just overwrite the file in `<your-mod-package-here>\BepInEx\plugins\nickklmao-REPOConfig`.<br />
 You can navigate to the right folder by opening R2modman, selecting a profile, and going into settings. There will be an option to "Browse profile folder".
+
+# Visual showcase
+![What this patch does](https://github.com/MaybeHoot/REPOConfig-overlap-patch/blob/main/res/img.jpg?raw=true)
