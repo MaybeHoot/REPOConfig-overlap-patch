@@ -1,3 +1,6 @@
+# Beta merged to main, this is now redundant. Use [the original repository](https://github.com/IsThatTheRealNick/REPOConfig)! (it still works, but will recieve no more updates as of `2025-07-05`)
+<br/>
+
 # REPOConfig-overlap-patch
 REPO beta build has settings and mod button overlap. The mod owner won't release for beta, so I fixed it. <br />
 All credit goes to original creator [IsThatTheRealNick](https://github.com/IsThatTheRealNick/) and his [repository](https://github.com/IsThatTheRealNick/REPOConfig).<br />
